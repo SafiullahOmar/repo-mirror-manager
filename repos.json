@@ -1,0 +1,7 @@
+[
+  {
+    "source": "your-org/repo1",
+    "target": "git@github.com:SafiullahOmar/test-mirror-source.git"
+    
+  }
+]
